@@ -1,0 +1,480 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.login-xym {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #1e1e1e;
+}
+.login-xym .background-overlay-qnf {
+  width: 192rem;
+  height: 108rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 2.0103rem;
+  filter: blur(1rem);
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(11, 14, 30, 0.400000006);
+}
+.login-xym .rectangle-1387-8Fy {
+  width: 192.2rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #01fdfd;
+}
+.login-xym .rectangle-1379-SnT {
+  width: 69rem;
+  height: 69rem;
+  position: absolute;
+  left: 57.8rem;
+  top: 28.6103rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.25rem);
+  background-color: rgba(87, 130, 193, 0.2800000012);
+  border-radius: 4rem;
+}
+.login-xym .icon-XZ1 {
+  width: 2.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 15.4603rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #1e2832;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .ellipse-1-Pr7 {
+  width: 106.9rem;
+  height: 102.7rem;
+  position: absolute;
+  left: 0;
+  top: 46.4103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-xym .top-header-vb9 {
+  box-sizing: border-box;
+  padding: 0rem 0.8rem 0rem 57rem;
+  width: 132rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 0;
+  top: 11.1103rem;
+}
+.login-xym .top-header-vb9 .logo-cym {
+  box-sizing: border-box;
+  padding-left: 4.1rem;
+  width: 100%;
+  height: 100%;
+}
+.login-xym .top-header-vb9 .logo-cym .auto-group-eqeh-AkP {
+  width: 100%;
+  height: 100%;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: AmstelvarAlpha, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-xym .top-header-vb9 .logo-cym .auto-group-eqeh-AkP .auto-group-eqeh-AkP-sub-0 {
+}
+.login-xym .top-header-vb9 .logo-cym .auto-group-eqeh-AkP .auto-group-eqeh-AkP-sub-1 {
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #00ffff;
+  font-family: AmstelvarAlpha, 'Source Sans Pro';
+}
+.login-xym .rectangle-125-pyM {
+  width: 42.5rem;
+  height: 56.3rem;
+  position: absolute;
+  left: 73rem;
+  top: 32.8103rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8.4rem;
+}
+.login-xym .group-2254-MCb {
+  width: 50.3rem;
+  height: 55.45rem;
+  position: absolute;
+  left: 67.1rem;
+  top: 34.8103rem;
+}
+.login-xym .group-2254-MCb .login-4Mu {
+  width: 9.3rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .or-continue-with-M67 {
+  width: 9.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 40.9rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .dont-have-an-account-yet-qGB {
+  width: 15.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 53.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .register-for-free-iKy {
+  width: 9.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 27.1rem;
+  top: 53.65rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .rectangle-1383-cAT {
+  width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 32.8rem;
+  background-color: #003465;
+  border-radius: 1rem;
+}
+.login-xym .group-2254-MCb .sign-in-XYK {
+  width: 6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 22.1rem;
+  top: 34rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .group-2253-ExX {
+  box-sizing: border-box;
+  padding: 1.3rem 6.3rem;
+  width: 15rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 45.5rem;
+  border: solid 0.1rem #bcbec0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.login-xym .group-2254-MCb .group-2253-ExX .flat-color-icons-google-kvs {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.login-xym .group-2254-MCb .group-2252-eFZ {
+  box-sizing: border-box;
+  padding: 1.3rem 6.3rem;
+  width: 15rem;
+  height: 5rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 45.5rem;
+  border: solid 0.1rem #bcbec0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.login-xym .group-2254-MCb .group-2252-eFZ .akar-icons-github-fill-Ajh {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.login-xym .group-2254-MCb .group-2250-gCF {
+  width: 50rem;
+  height: 21.5rem;
+  position: absolute;
+  left: 0;
+  top: 7.2rem;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .rectangle-1381-ba7 {
+  width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  border: solid 0.1rem #bcbec0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .email-7HZ {
+  width: 4.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .rectangle-1382-qDZ {
+  width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 13.3rem;
+  border: solid 0.1rem #bcbec0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .password-kbR {
+  width: 7.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 10.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .usernamegmailcom-Tkj {
+  width: 13.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 4.3rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #bcbec0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .password-9dZ {
+  width: 5.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 14.9rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #bcbec0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .forgot-password-T8T {
+  width: 8.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 19.9rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-xym .group-2254-MCb .group-2250-gCF .clarity-eye-hide-line-ZhH {
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 46.3rem;
+  top: 15rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.login-xym .group-2254-MCb .group-2251-sxs {
+  box-sizing: border-box;
+  padding: 1.3rem 6.3rem 1.3rem 6.3rem;
+  width: 15rem;
+  height: 5rem;
+  position: absolute;
+  left: 35.3rem;
+  top: 45.5rem;
+  border: solid 0.1rem #bcbec0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.login-xym .group-2254-MCb .group-2251-sxs .bi-facebook-ByZ {
+  width: 2.4003rem;
+  height: 2.4003rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.login-xym .group-td5 {
+  opacity: 0.5;
+  width: 21.1601rem;
+  height: 21.8107rem;
+  position: absolute;
+  left: 43.6852rem;
+  top: 3.0955rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-xym .account-ok3 {
+  width: 24.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 153.25rem;
+  top: 16.4103rem;
+  display: flex;
+  align-items: center;
+}
+.login-xym .account-ok3 .button-vZm {
+  margin-right: 4.7rem;
+  box-sizing: border-box;
+  padding-left: 0.6rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-xym .account-ok3 .button-vZm .icon-Fc3 {
+  margin-right: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-xym .account-ok3 .button-vZm .shop-now-n6B {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-xym .account-ok3 .button-6Mm {
+  box-sizing: border-box;
+  padding-left: 0.6rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-xym .account-ok3 .button-6Mm .icon-ePH {
+  margin-right: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-xym .account-ok3 .button-6Mm .shop-now-B8K {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-xym .group-6m5 {
+  width: 60.0301rem;
+  height: 53.2799rem;
+  position: absolute;
+  left: 119.7rem;
+  top: 57.9103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-xym .group-S4F {
+  width: 40.1399rem;
+  height: 36.9399rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 65.7103rem;
+  object-fit: contain;
+  vertical-align: top;
+}

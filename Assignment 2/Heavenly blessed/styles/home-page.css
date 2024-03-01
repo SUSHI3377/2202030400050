@@ -1,0 +1,506 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.home-page-UQF {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(30, 30, 30, 0.9333333373);
+}
+.home-page-UQF .auto-group-wpym-Pn7 {
+  width: 221.4258rem;
+  height: 102.7rem;
+  position: absolute;
+  left: 0;
+  top: 44rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-UQF .auto-group-wpym-Pn7 .ellipse-1-Wbq {
+  margin-right: 88.5042rem;
+  width: 106.9rem;
+  height: 102.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-wpym-Pn7 .frame-psR {
+  margin-top: 3.965rem;
+  width: 26.0216rem;
+  height: 33.2304rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-UQF .img-05-xTq {
+  box-sizing: border-box;
+  padding: 0rem 7.918rem 0rem 7.918rem;
+  width: 67.3rem;
+  height: 67.1rem;
+  position: absolute;
+  left: 113.8rem;
+  top: 33.4rem;
+  box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.home-page-UQF .img-05-xTq .image-product-TfV {
+  width: 100%;
+  height: 64.9057rem;
+  position: relative;
+}
+.home-page-UQF .img-05-xTq .image-product-TfV .rectangle-124-Qaj {
+  width: 49.3689rem;
+  height: 62.5959rem;
+  position: absolute;
+  left: 2.0958rem;
+  top: 2.3098rem;
+  border: solid 0.2rem rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  border-radius: 16rem 0 16rem 0;
+}
+.home-page-UQF .img-05-xTq .image-product-TfV .img-19-h43 {
+  width: 49.3689rem;
+  height: 62.5959rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border-radius: 16rem 0 16rem 0;
+}
+.home-page-UQF .img-05-xTq .image-product-TfV .img-19-h43 .engin-akyurt-jazoffxg1yc-unsplash-1-2c7 {
+  width: 49.3689rem;
+  height: 62.5959rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-UQF .background-overlay-WGP {
+  box-sizing: border-box;
+  padding-bottom: 2.6498rem;
+  width: 97.7rem;
+  height: 108rem;
+  position: absolute;
+  left: 0;
+  top: 4.1rem;
+  filter: blur(1rem);
+  backdrop-filter: blur(0.5rem);
+  background-color: rgba(11, 14, 30, 0.400000006);
+}
+.home-page-UQF .background-overlay-WGP .auto-group-dcz1-RPM {
+  width: 196.3rem;
+  height: 24.2021rem;
+  position: relative;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-dcz1-RPM .icon-Mno {
+  width: 2.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 14.95rem;
+  top: 13.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #1e2832;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-dcz1-RPM .group-Ebh {
+  opacity: 0.5;
+  width: 21.3006rem;
+  height: 21.6234rem;
+  position: absolute;
+  left: 49.0784rem;
+  top: 2.5787rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-dcz1-RPM .rectangle-1387-MAX {
+  width: 196.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #01fdfd;
+}
+.home-page-UQF .background-overlay-WGP .content-HK5 {
+  margin: 0rem 22.2rem 0.008rem 18.8rem;
+  width: calc(100% - 41rem);
+  display: flex;
+  flex-direction: column;
+}
+.home-page-UQF .background-overlay-WGP .content-HK5 .become-heavenly-blessed-angle-1Vy {
+  margin-bottom: 6rem;
+  max-width: 56.7rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 0.859375;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Rhodium Libre, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .content-HK5 .button-ubM {
+  margin-right: 34.4rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2.6rem 1.8rem 3.35rem;
+  width: calc(100% - 34.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #1e2832;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .content-HK5 .button-ubM .icon-RJo {
+  margin: 0rem 1.55rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .content-HK5 .button-ubM .shop-now-8DD {
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK {
+  width: 152.2977rem;
+  height: 26.8425rem;
+  position: relative;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK .brand-BxB {
+  width: 132rem;
+  height: 7rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 18.7923rem;
+  display: flex;
+  column-gap: 8rem;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.9900000095);
+  box-sizing: border-box;
+  background-color: rgba(245, 245, 245, 0.9900000095);
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK .brand-BxB .brand-1-J1D {
+  width: 20rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK .brand-BxB .brand-5-SNK {
+  width: 20rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK .brand-BxB .brand-3-yNF {
+  width: 20rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK .brand-BxB .brand-4-Wsy {
+  width: 20rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK .brand-BxB .brand-2-TYK {
+  width: 20rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-UQF .background-overlay-WGP .auto-group-56pp-qtK .frame-ZbM {
+  width: 21.3096rem;
+  height: 26.8425rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-UQF .auto-group-mbtt-4HD {
+  width: 181.4rem;
+  height: 16.9rem;
+  position: absolute;
+  left: 2.85rem;
+  top: 10.9rem;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD {
+  width: 159.7rem;
+  height: 16.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .top-header-i6s {
+  margin: 0rem 27.7rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 0.8rem 0rem 57rem;
+  width: 132rem;
+  height: 12.1rem;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .top-header-i6s .logo-QkP {
+  box-sizing: border-box;
+  padding-left: 4.1rem;
+  width: 100%;
+  height: 100%;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .top-header-i6s .logo-QkP .auto-group-vk9b-ZtB {
+  width: 100%;
+  height: 100%;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: AmstelvarAlpha, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .top-header-i6s .logo-QkP .auto-group-vk9b-ZtB .auto-group-vk9b-ZtB-sub-0 {
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .top-header-i6s .logo-QkP .auto-group-vk9b-ZtB .auto-group-vk9b-ZtB-sub-1 {
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #00ffff;
+  font-family: AmstelvarAlpha, 'Source Sans Pro';
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF {
+  margin-left: 27.7rem;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF .item-menu-aRu {
+  margin-right: 5.7667rem;
+  width: 16rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF .item-menu-Fnw {
+  margin-right: 5.7667rem;
+  width: 12.7rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF .item-menu-Mb5 {
+  margin-right: 5.7667rem;
+  width: 10.9rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF .item-menu-Te7 {
+  margin-right: 5.7667rem;
+  width: 12.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF .item-menu-NFH {
+  margin-right: 5.7667rem;
+  width: 16.2rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF .item-menu-4to {
+  margin-right: 5.7667rem;
+  width: 12.7rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .header-nDD .menu-eYF .item-menu-yVy {
+  width: 16.4rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .account-rpf {
+  width: 24.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 156.8rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-UQF .auto-group-mbtt-4HD .account-rpf .button-Brw {
+  margin-right: 4.7rem;
+  box-sizing: border-box;
+  padding-left: 0.6rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .account-rpf .button-Brw .icon-KiF {
+  margin-right: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .account-rpf .button-Brw .shop-now-T3m {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .account-rpf .button-mq9 {
+  box-sizing: border-box;
+  padding-left: 0.6rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .account-rpf .button-mq9 .icon-7PD {
+  margin-right: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-UQF .auto-group-mbtt-4HD .account-rpf .button-mq9 .shop-now-Eij {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
